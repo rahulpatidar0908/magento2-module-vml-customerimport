@@ -1,8 +1,8 @@
 {
-    "name": "vml/customer-import",
+    "name": "vml/customerimport",
     "description": "Create customer profiles by CLI source",
     "type": "magento2-module",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "license": [
       "MIT"
     ],
@@ -13,5 +13,11 @@
         "psr-4": {
             "VML\\CustomerImport\\": ""
         }
-    }
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/rahulpatidar0908/magento2-module-vml-customerimport"
+        }
+    ]
 }
