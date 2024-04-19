@@ -1,8 +1,8 @@
 {
-    "name": "VML/CustomerImport",
+    "name": "vml/customer-import",
     "description": "Create customer profiles by CLI source",
     "type": "magento2-module",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "license": [
       "MIT"
     ],
