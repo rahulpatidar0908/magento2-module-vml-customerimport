@@ -1,0 +1,27 @@
+[
+    {
+        "fname": "Emma",
+        "lname": "Waters",
+        "emailaddress": "emma.waters@example.com"
+    },
+    {
+        "fname": "Rami",
+        "lname": "Basara",
+        "emailaddress": "rami.basara@example.com"
+    },
+    {
+        "fname": "Adalfredo",
+        "lname": "Capon",
+        "emailaddress": "adalfredo.capon@example.com"
+    },
+    {
+        "fname": "Marinko",
+        "lname": "Bosanac",
+        "emailaddress": "marinko.bosanac@example.com"
+    },
+    {
+        "fname": "Duha",
+        "lname": "Ghanem",
+        "emailaddress": "duha.ghanem@example.com"
+    }
+]

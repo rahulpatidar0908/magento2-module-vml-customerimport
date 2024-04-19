@@ -1,0 +1,14 @@
+{
+    "name": "vml/customer-import",
+    "description": "Create customer profiles by CLI source",
+    "type": "magento2-module",
+    "version": "1.0.0",
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "VML\\CustomerImport\\": ""
+        }
+    }
+}
