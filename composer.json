@@ -2,7 +2,7 @@
     "name": "rahulpatidar0908/magento2-module-vml-customerimport",
     "description": "Create customer profiles by CLI source",
     "type": "magento2-module",
-    "version": "1.0.5",
+    "version": "1.0.6",
     "license": [
       "MIT"
     ],
