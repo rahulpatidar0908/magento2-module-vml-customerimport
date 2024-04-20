@@ -78,7 +78,7 @@ class ImportCustomer extends Command
                 $this->customerSaveInterface->import($source);
             }
 
-            $output->writeln('====End=====');
+            $output->writeln('Customer Imported Successfully');
 
             return \Magento\Framework\Console\Cli::RETURN_SUCCESS;
         } catch (\Exception $e) {
