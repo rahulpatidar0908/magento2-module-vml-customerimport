@@ -2,6 +2,7 @@ Customer import module is used to import the customers by CLI and create custome
 
 PHP & Composer versions 
 ---------------------------
+Magento Version 2.4.7
 php 8.3
 composer 2.0
 
@@ -13,6 +14,7 @@ Official installation method is via composer and its packagist package [ rahulpa
 ```
 $ composer require rahulpatidar0908/magento2-module-vml-customerimport
 $ php bin/magento module:enable VML_CustomerImport
+$ php bin/magento setup:upgrade
 $ php bin/magento setup:di:compile
 $ php bin/magento setup:static-content:deploy -f
 
